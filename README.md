@@ -3,7 +3,7 @@
 - 🌱 I'm learning c#
 - 💞️ I’m looking to collaborate on my phtography page
 - 📫 How to reach me email
-- 
+  
 
 <!---
 srushti2127/srushti2127 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
