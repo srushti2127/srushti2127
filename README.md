@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @srushti2127
 - 👀 I’m interested in java programmingg
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on my phtography apge
+- 🌱 I'm learning c#
+- 💞️ I’m looking to collaborate on my phtography page
 - 📫 How to reach me email
 - 
 
