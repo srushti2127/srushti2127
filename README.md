@@ -2,7 +2,6 @@
 - 👀 I’m interested in java programmingg
 - 🌱 I'm learning c#
 - 💞️ I’m looking to collaborate on my phtography page
-- 📫 How to reach me email
   
 
 <!---
